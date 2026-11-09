@@ -1,0 +1,12 @@
+# Настройки IntelliJ IDEA
+.idea/
+*.iml
+
+# Скомпилированные файлы и папки сборки
+target/
+*.class
+*.jar
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
